@@ -1,4 +1,4 @@
-Just a young man learning as much as he can.
+New Kid on the block.
 
 Focuses:
 -DevOps
